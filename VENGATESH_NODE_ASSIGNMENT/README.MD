@@ -4,8 +4,8 @@ Requirement
 * NodeJs
 
 Usage
-Install dependencies npm i
-Start application npm start
+- Install dependencies npm i
+- Start application npm start
 
 Functionalities
 
